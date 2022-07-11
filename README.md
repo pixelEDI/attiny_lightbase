@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-ATtiny%20Project-blue.svg?&amp;style=for-the-badge&amp;logo=Linktree&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-ATtiny%20Project-blue.svg?&amp;style=for-the-badge&amp" style="max-width: 100%;">
 
 ## General info 
 * TEXT
