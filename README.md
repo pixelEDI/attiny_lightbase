@@ -3,8 +3,7 @@
 
 # General info
 
-[![lightbase](https://github.com/pixelEDI/attiny_lightbase/blob/main/nightlight_youtube.jpg)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![lightbase](https://photos.app.goo.gl/XoS5thNP4X6nppDM6)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
   
 ## Code
 
