@@ -5,6 +5,11 @@
 [![Watch the video](https://github.com/pixelEDI/attiny_lightbase/blob/main/nightlight_youtube.jpg)](https://www.youtube.com/watch?v=XIh21eYYatw)
 
 ## Code
+- First we declare the functions for fading in and out the LEDs
+- With the function "detectTwoClapsInTimeWindow" we make sure, that the claps are at least 300ms apart from each other to get counted.
+- In the loop: 
+- if the second clap follows within 1000ms the LEDs will be turned on and/or off in three different ways. And then the clap counter starts at zero.
+- otherwise nothing happens and the clap counter starts at zero.
 
 
 ## Hardware
