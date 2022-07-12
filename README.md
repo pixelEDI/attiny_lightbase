@@ -2,7 +2,7 @@
 
 
 # General info
-[![Watch the video](https://img.youtube.com/vi/XIh21eYYatw/0.jpg)](https://www.youtube.com/watch?v=XIh21eYYatw)
+[![Watch the video](https://img.youtube.com/vi/XIh21eYYatw/2.jpg)](https://www.youtube.com/watch?v=XIh21eYYatw)
 
 ## Code
 
