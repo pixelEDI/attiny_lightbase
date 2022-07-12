@@ -2,7 +2,7 @@
 
 
 # General info
-[![](https://yt-embed.live/embed?v=XIh21eYYatw)](http://www.youtube.com/watch?v=XIh21eYYatw "Video Title")
+[![](https://yt-embed.live/embed?v=XIh21eYYatw)](http://www.youtube.com/watch?v=XIh21eYYatw "Nightlight with a twist")
 
 ## Code
 - First we declare the functions for fading in and out the LEDs
