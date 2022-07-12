@@ -3,7 +3,7 @@
 
 # General info
 
-[![lightbase](https://github.com/pixelEDI/attiny_lightbase/blob/main/nightlight_youtube.jpg?raw=true)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
+[![lightbase](https://github.com/pixelEDI/attiny_lightbase/blob/main/nightlight_youtube.jpg)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
 
 ## Code
 
