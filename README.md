@@ -5,6 +5,8 @@
 
 [![lightbase](https://github.com/pixelEDI/attiny_lightbase/blob/main/nightlight_youtube.jpg)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
 
+https://img.youtube.com/vi/<https://www.youtube.com/embed/XIh21eYYatw>/0.jpg
+  
 ## Code
 
 
