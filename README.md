@@ -3,6 +3,7 @@
 # General info
 
 
+
 ## Code
 
 ## Hardware
@@ -20,5 +21,4 @@ yt video
 
 ## 3D Case
 Get the Case:  [thingiverser URL](https://www.thingiverse.com/thing:5427689)
-
-
+![Case](https://github.com/pixelEDI/attiny_lightbase/blob/main/lightbase_resize.jpg)
