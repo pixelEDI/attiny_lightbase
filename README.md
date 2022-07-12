@@ -1,10 +1,12 @@
-<img src="https://img.shields.io/badge/-ATtiny%20Project-blue.svg?&amp;style=flat-square&amp" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-ATtiny%20Project-blue.svg?&amp;style=flat-square&amp" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-PlattformIO-orange.svg?&amp;style=flat-square&amp" style="max-width: 100%;">
 
 # General info
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIh21eYYatw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Code
+
 
 ## Hardware
 - This DIY nightlight is a practical example of using transistors with ATtinys since we address 4 LEDs with one GPIO, with max 40mA per pin.
