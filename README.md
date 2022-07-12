@@ -22,9 +22,6 @@
 ![Verdrahtung](https://github.com/pixelEDI/attiny_lightbase/blob/acee0ae0a8cb3ad401b295703366edbd02c3874a/Wiring_lightBase.jpg)
 
 
-collage 
-yt video
-
 ## 3D Case
 Get the Case:  [thingiverser URL](https://www.thingiverse.com/thing:5427689)
 ![Case](https://github.com/pixelEDI/attiny_lightbase/blob/main/Collage3dlightbase.jpg?raw=true)
