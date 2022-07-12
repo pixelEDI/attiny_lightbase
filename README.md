@@ -1,11 +1,11 @@
 <img src="https://img.shields.io/badge/-ATtiny%20Project-blue.svg?&amp;style=flat-square&amp" style="max-width: 100%;">
 
-## General info
+# General info
 
 
-# Code
+## Code
 
-# Hardware
+## Hardware
 - This DIY nightlight is a practical example of using transistors with ATtinys since we address 4 LEDs with one GPIO, with max 40mA per pin.
 - The light is switched on and off from the hardware side with a built-in reed switch and a magnet.
 - The microphone functions as a sound detector so you can change between three colors by clapping. 
@@ -19,6 +19,6 @@ collage
 yt video
 
 ## 3D Case
-Get the Case:  thingiverser URL
+Get the Case:  [thingiverser URL](https://www.thingiverse.com/thing:5427689)
 
 
