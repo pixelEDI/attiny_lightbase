@@ -2,9 +2,9 @@
 
 
 # General info
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/embed/XIh21eYYatw)
 
-[![lightbase](https://photos.app.goo.gl/XoS5thNP4X6nppDM6)](https://www.youtube.com/embed/XIh21eYYatw "lightbase")
-  
+
 ## Code
 
 
