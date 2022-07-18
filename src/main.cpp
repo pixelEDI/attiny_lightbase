@@ -60,6 +60,7 @@ void setup()
 {
   pinMode(LEDgreen, OUTPUT);
   pinMode(LEDblue, OUTPUT);
+  pinMode(soundModul, INPUT);
 }
 
 void loop()
